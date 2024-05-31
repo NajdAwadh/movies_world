@@ -6,13 +6,11 @@ Movies World is a web application built using React and Vite, allowing users to 
 
 # Features
 
-Browse Movies: Explore a diverse range of movies conveniently categorized for easy navigation.
+Browse Movies: Explore a diverse range of movies.
 
-Search Functionality: Instantly find movies by title, genre, or any other relevant keywords.
+Search Functionality: Instantly find movies by title.
 
-Detailed Information: Access comprehensive details about each movie, including its plot, cast, ratings, and more.
-
-Responsive Design: Enjoy a seamless user experience across various devices, including desktops, tablets, and smartphones.
+Responsive Design: Enjoy a seamless user experience across various devices.
 
 # Technologies Used
 React: A popular JavaScript library for building user interfaces.
